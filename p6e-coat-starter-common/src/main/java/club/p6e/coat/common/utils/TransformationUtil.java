@@ -31,7 +31,6 @@ public final class TransformationUtil {
         }
     }
 
-
     public static Double objectToDouble(Object o) {
         if (o == null) {
             return null;
